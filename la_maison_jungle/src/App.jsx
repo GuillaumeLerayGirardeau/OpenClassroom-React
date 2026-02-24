@@ -1,7 +1,7 @@
-import Banner from './components/banner.jsx';
-import Cart from './components/cart.jsx';
+import Banner from './components/Banner.jsx';
+import Cart from './components/Cart.jsx';
 
-function App() {
+const App = () => {
   return (
   <div>
     <Banner />
